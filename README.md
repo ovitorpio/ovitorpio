@@ -20,12 +20,6 @@ My work sits at the intersection of **payments, cybersecurity, product, and emer
 - **[Research code and data](https://github.com/gdhfontoura/fermat-moduli-factoring-circuits)** - reproducible notebooks, circuits, and experimental results from the quantum research.
 - **[YouTube](https://www.youtube.com/@ovitorpio)** - conversations and lessons from building at the intersection of technology and business.
 
-## Hackathons and collaboration
-
-I'm interested in hackathons and collaborations involving **fintech, payments, applied AI, cybersecurity, and quantum computing**. I bring product direction, technical execution, security thinking, and experience taking ideas from prototype to real-world operation.
-
-If you're building something ambitious in one of these areas, feel free to reach out.
-
 ## Connect
 
 [Website](https://links.vitorpio.com) | [LinkedIn](https://www.linkedin.com/in/pio/) | [YouTube](https://www.youtube.com/@ovitorpio) | [Google Scholar](https://scholar.google.com.br/citations?user=Si9hBkIAAAAJ&hl=en)
