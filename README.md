@@ -24,4 +24,4 @@ My work sits at the intersection of **payments, cybersecurity, product, and emer
 
 [Website](https://links.vitorpio.com) | [LinkedIn](https://www.linkedin.com/in/pio/) | [YouTube](https://www.youtube.com/@ovitorpio) | [Google Scholar](https://scholar.google.com.br/citations?user=Si9hBkIAAAAJ&hl=en)
 
-Based in Rio de Janeiro, Brazil.
+Based in Barcelona, Spain.
