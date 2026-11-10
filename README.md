@@ -13,7 +13,7 @@ Application and product security engineer based in Barcelona, with 8+ years secu
 
 - [Factoring some integers using Shor's algorithm on real quantum hardware](https://doi.org/10.1038/s41598-026-69823-6). *Scientific Reports*, 2026.
 - [Boosting Shor's factoring success with the Jacobi symbol in single-run order finding](https://doi.org/10.59254/sbpo-2025-212078). SBPO 2025, first author.
-- [Research code and data](https://github.com/gdhfontoura/fermat-moduli-factoring-circuits) for the *Scientific Reports* paper.
+- [Research code and data](https://github.com/ovitorpio/shor-factoring-ibm-quantum): experiments, Qiskit arithmetic circuits and hardware results from 7 IBM backends.
 - [TroqPay SDK](https://github.com/troqpay/sdk) and [TroqPay MCP server](https://github.com/troqpay/agent-plugin).
 - Talk: [Privacy: the good, the bad and the inconsistent](https://www.youtube.com/watch?v=h6KOw5h0_bk). Zcon Vozes, 2023 (Portuguese).
 
