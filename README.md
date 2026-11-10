@@ -21,6 +21,7 @@ Application and product security engineer based in Barcelona, with 8+ years secu
 
 **Security:** Burp Suite, Frida, MobSF, jadx  
 **Code:** Python, TypeScript, Next.js, PostgreSQL, Docker  
+**AI:** Claude Code, Codex, MCP (AI-assisted security review; LLM application security)  
 **Quantum:** Qiskit, IBM Quantum
 
 Portuguese (native) · English (C1) · Spanish (B2)
