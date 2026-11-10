@@ -4,7 +4,7 @@ Application and product security engineer based in Barcelona, with 8+ years secu
 
 ## Background
 
-- **Samsung R&D (SiDi):** grew from intern to leading a team of 10. Penetration testing, secure code review and vulnerability research across Android, Tizen, wearables and web.
+- **Samsung R&D (SiDi):** grew from intern to team lead. Penetration testing, secure code review and vulnerability research across Android, Tizen, wearables and web.
 - **PrivacyMap:** founded and led an AppSec consultancy. Web, Android, iOS and API assessments, from scoping to remediation.
 - **TroqPay:** founded a B2B payments platform and built its product, architecture and security from zero to production. US$60k Stellar Community Fund Build Award; 2nd place in the HackMeridian 2026 Scale Track.
 - **Research:** Shor's algorithm on real IBM quantum hardware with explicit modular arithmetic, at UFF in collaboration with ICTi.
